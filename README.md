@@ -1,4 +1,4 @@
-This project demonstrates the design and implementation of a secure network environment using pfSense as the firewall, Suricata as an intrusion detection system (IDS), and a DMZ to protect critical resources. The network includes separate LAN, WAN, and DMZ subnets with a web server hosted in the DMZ using Nginx.
+This project demonstrates the design and implementation of a secure network environment using pfSense as the firewall, Suricata as an intrusion detection system (IDS), and a DMZ to protect critical resources. The network includes separate LAN, WAN, and DMZ subnets with a web server hosted in the DMZ using Apache.
 
 Key tasks included:
 
